@@ -1,0 +1,64 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSortingTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInsertion Sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should sort sorted list *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.ArrayIndexOutOfBoundsException: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.$anonfun$insertionSort$1(Sorting.scala:11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:156)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.insertionSort(Sorting.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.SortingTest.$anonfun$new$2(SortingTest.scala:17)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:1078)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should sort unsorted list *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.ArrayIndexOutOfBoundsException: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.$anonfun$insertionSort$1(Sorting.scala:11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:156)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.insertionSort(Sorting.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.SortingTest.$anonfun$new$4(SortingTest.scala:21)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:1078)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should sort reversed list *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.ArrayIndexOutOfBoundsException: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.$anonfun$insertionSort$1(Sorting.scala:11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:156)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.insertionSort(Sorting.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.SortingTest.$anonfun$new$6(SortingTest.scala:25)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:1078)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should sort list with negative integers *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.ArrayIndexOutOfBoundsException: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.$anonfun$insertionSort$1(Sorting.scala:11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:156)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.Sorting.insertionSort(Sorting.scala:7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at edu.knoldus.SortingTest.$anonfun$new$8(SortingTest.scala:29)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:1078)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSelection Sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort sorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort unsorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort reversed list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort list with negative integers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBubble Sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort sorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort unsorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort reversed list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort list with negative integers[0m[0m
