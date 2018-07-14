@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFibbSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testing fibbonacci series for a 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testing fibbonacci series for a 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Testing fibbonacci series for a 7 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  8 did not equal 0 (FibbSpec.scala:25)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Testing for negative number[0m[0m

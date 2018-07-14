@@ -1,0 +1,22 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:19:31: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:31: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:35: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:39: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:43: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:47: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/fibbonaci/src/test/scala/com/knoldus/FibbSpec.scala:24:51: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val expexctedResult = 0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 warnings found[0m
